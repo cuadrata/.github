@@ -15,3 +15,5 @@ history.
 One of the major goals is a set of plain, dependable tools for Wayland desktops,
 as xterm, xcalc and the other x* programs were for X. With that being said, they
 are also great tools to use on X11 desktops.
+
+![XMMS, Imperaterm, Calculator, Solitaire and Mahjong on Wayland](https://github.com/cuadrata/.github/raw/main/profile/screenshot.png)
